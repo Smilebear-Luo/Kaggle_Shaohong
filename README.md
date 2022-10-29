@@ -5,7 +5,7 @@ The competitions is ranked in chronological order.
 
 Here is the link of my kaggle profile: https://www.kaggle.com/mackellis
 
-My email is lawson0806@gmail.com . Feel free to reach out if you want to team up with me or have any questions regarding the code.
+My email is lawson0806@gmail.com . Feel free to reach out if you want to team up with me or have any questions regarding the code. So far, I am still active in Kaggle in my spare time.
 
 **1. CommonLit Readability Prize**  
 
