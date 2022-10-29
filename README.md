@@ -5,9 +5,12 @@ The competition is ranked in chronological order.
 
 Here is the link of my kaggle profile: https://www.kaggle.com/mackellis
 
-1. CommonLit Readability Prize
-  Link: https://www.kaggle.com/competitions/commonlitreadabilityprize
-  Type: NLP
+1. CommonLit Readability Prize  
+
+  Link: https://www.kaggle.com/competitions/commonlitreadabilityprize  
+  
+  Type: NLP  
+  
   Date: August 2, 2021 
   Ranking: Silver, top 5%
   model: Attention + Transformer + Roberta + Deberta + SVM ...
