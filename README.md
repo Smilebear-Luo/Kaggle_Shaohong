@@ -1,4 +1,4 @@
-# Kaggle
+# readme
 This file includes some codes from different kaggle competitions. The competitons link, Type, date(end date), name, ranking I got and model I used can be found in following.
 
 The competitions is ranked in chronological order.
