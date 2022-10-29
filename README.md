@@ -1,4 +1,4 @@
-# readme
+# README
 This repository includes some main codes from different kaggle competitions, which are all wrote by myself. The competitions link, type, date(end date), name, ranking I got and model I used can be found in following. Note that some comments in the code may be written in Chinese.
 
 The competitions is ranked in chronological order.
