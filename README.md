@@ -1,5 +1,5 @@
 # readme
-This file includes some codes from different kaggle competitions. The competitons link, Type, date(end date), name, ranking I got and model I used can be found in following.
+This repository includes some main codes from different kaggle competitions, which are all wrote by myself. The competitions link, type, date(end date), name, ranking I got and model I used can be found in following.
 
 The competitions is ranked in chronological order.
 
@@ -43,7 +43,7 @@ My email is lawson0806@gmail.com . Feel free to reach out if you want to team up
 -   Model: xgboost + lightgbm  
 
 
-**5. American Express - Default Prediction ** 
+**5. American Express - Default Prediction** 
 
 -   Link: https://www.kaggle.com/competitions/amex-default-prediction  
 -   Type: Data mining  
